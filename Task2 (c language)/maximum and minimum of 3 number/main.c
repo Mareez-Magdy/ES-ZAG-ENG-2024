@@ -3,7 +3,7 @@
 int main()
 {
    int a,b,c,max,min;
-   printf("enter three numbers");
+   printf("enter three numbers\n");
    scanf("%d%d%d",&a,&b,&c);
            /* maximum number */
 
@@ -13,7 +13,7 @@ int main()
    else if(b>a && b>c){
        max = b;
    }
-   else(
+   else{
          max = c;
    }
       printf ("\n The maximum number is %d",max);
