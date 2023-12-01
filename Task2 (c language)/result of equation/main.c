@@ -12,7 +12,7 @@ int main()
     printf("Enter the value of d ");
     scanf("%f",&d);
 
-    x =((a*b)-(c*d))
+    x =((a*b)-(c*d));
     printf ("\n The result is %f",x);
 
     return 0;
