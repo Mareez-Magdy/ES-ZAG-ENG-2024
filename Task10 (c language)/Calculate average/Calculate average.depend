@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709647504 source:c:\users\system2\desktop\task10 (c language)\calculate average\main.c
+	<stdio.h>
+	<stdlib.h>
+
