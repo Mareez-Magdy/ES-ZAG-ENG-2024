@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709737379 source:c:\users\system2\desktop\task12 (c language)\correct a test\main.c
+	<stdio.h>
+	<stdlib.h>
+
